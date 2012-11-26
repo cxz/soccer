@@ -1,0 +1,17 @@
+<h1>Listing seasons</h1>
+
+<table class="table">
+  <thead>
+  <tr>
+    <th>Year</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @seasons.each do |season| %>
+      <tr>
+        <td><%= season.year %></td>
+      </tr>
+  <% end %>
+  </tbody>
+</table>
+

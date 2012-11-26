@@ -1,0 +1,43 @@
+
+
+<!-- chart container -->
+<div id="stats-chart-<%= group %>">
+</div>
+
+
+<script>
+    // Create a new YUI instance and populate it with the required modules.
+    YUI().use('charts', "datasource-io", "datasource-jsonschema", function (Y) {
+
+        var chart = new Y.Chart({
+            dataProvider: [],
+            categoryKey: "season",
+            type: 'pie',
+            render: "#stats-chart-<%= group %>"
+        });
+
+        var myDataSource = new Y.DataSource.IO({source:"<%= chart_url(:player_id => @player.id, :format=>:json) %>"});
+
+        var myCallback = {
+            success: function(e) {
+                //alert(e.response.results);
+                console.log(e.response.results);
+                chart.set("dataProvider", e.response.results);
+            },
+            failure: function(e) {
+                if (console) console.log("oops, something went wrong ");
+            }
+        };
+
+        myDataSource.plug(Y.Plugin.DataSourceJSONSchema, {
+            schema: {
+                resultFields: [ "season", "general_gp"]
+            }
+        });
+
+        myDataSource.sendRequest({callback: myCallback});
+
+
+    });
+</script>
+

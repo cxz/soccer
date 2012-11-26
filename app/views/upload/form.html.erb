@@ -1,0 +1,25 @@
+<h1>Upload</h1>
+
+
+<%= form_tag( {:action => 'import', :method => 'post'} , :multipart => true, :class => :form ) do %>
+
+    <legend>Upload team history</legend>
+
+    <fieldset>
+
+        <%= file_field_tag :uploaded_file, :accept => 'text/xml' %>
+
+        <br/>
+        <br/>
+
+        <div class="form-action">
+          <button type="submit" class="btn btn-primary">Upload and import</button>
+          <button type="button" class="btn">Cancel</button>
+        </div>
+
+     </fieldset>
+<% end %>
+
+
+
+

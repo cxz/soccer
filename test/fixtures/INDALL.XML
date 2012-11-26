@@ -1,0 +1,371 @@
+<soseasons>
+
+  <soseas>
+
+    <venue type="M" venuetype="M" confonly="0" vstmid="" vsteam=""></venue>
+
+    <team code="" name="" season="2010">
+      <totals gp="18">
+        <shots g="37" a="49" pts="123" sh="308" sog="127" ps="1" psatt="1" soatt="0"></shots>
+        <goaltype gw="11" ua="4" fg="13" ot="1" hat="1" gt="2" so="0"></goaltype>
+        <cautions yc="30" rc="0" gc="0"></cautions>
+        <misc minutes="18573" dsave="0" corner="116" offside="52"></misc>
+        <goalie gp="18" minutes="1692:49" ga="14" saves="71" gaavg="0.74" svpct=".835" sho="10" w="11" l="4" t="3" sf="197"></goalie>
+      </totals>
+      <opponent gp="18">
+        <shots g="14" a="8" pts="36" sh="201" sog="85" ps="1" psatt="2" soatt="0"></shots>
+        <goaltype gw="4" ua="6" fg="4" ot="0" hat="0" gt="5" so="0"></goaltype>
+        <cautions yc="32" rc="2" gc="0"></cautions>
+        <misc minutes="18640" dsave="0" corner="74" offside="18"></misc>
+        <goalie gp="18" minutes="1692:49" ga="37" saves="90" gaavg="1.97" svpct=".709" sho="2" w="4" l="11" t="3" sf="303"></goalie>
+      </opponent>
+      <player name="Daniel Allan" checkname="ALLAN,DANIEL" gp="5" gs="0">
+        <shots g="1" a="0" pts="2" sh="6" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="108" dsave="0"></misc>
+      </player>
+      <player name="Mark Anderson" checkname="ANDERSON,MARK" gp="18" gs="17">
+        <shots g="11" a="9" pts="31" sh="100" sog="39" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="3" ua="2" fg="3" ot="0" hat="1" gt="1" so="0"></goaltype>
+        <cautions yc="3" rc="0" gc="0"></cautions>
+        <misc minutes="1445" dsave="0"></misc>
+      </player>
+      <player name="Joe Conkleton" checkname="CONKLETON,JOE" gp="18" gs="18">
+        <shots g="3" a="7" pts="13" sh="22" sog="7" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="1596" dsave="0"></misc>
+      </player>
+      <player name="Godfrey Francois" checkname="FRANCOIS,GODFREY" gp="15" gs="1">
+        <shots g="0" a="1" pts="1" sh="9" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="355" dsave="0"></misc>
+      </player>
+      <player name="Joao Garcia" checkname="GARCIA,JOAO" gp="17" gs="17">
+        <shots g="1" a="2" pts="4" sh="5" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="2" rc="0" gc="0"></cautions>
+        <misc minutes="1522" dsave="0"></misc>
+      </player>
+      <player name="Mark Kilpatrick" checkname="KILPATRICK,MARK" gp="14" gs="1">
+        <shots g="2" a="1" pts="5" sh="10" sog="5" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="476" dsave="0"></misc>
+      </player>
+      <player name="Joong Kim" checkname="KIM,JOONG" gp="18" gs="11">
+        <shots g="1" a="3" pts="5" sh="23" sog="8" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="6" rc="0" gc="0"></cautions>
+        <misc minutes="972" dsave="0"></misc>
+      </player>
+      <player name="Houghton Kinsman" checkname="KINSMAN,HOUGHTON" gp="16" gs="1">
+        <shots g="0" a="1" pts="1" sh="4" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="423" dsave="0"></misc>
+      </player>
+      <player name="Sascha Koettig" checkname="KOETTIG,SASCHA" gp="18" gs="17">
+        <shots g="10" a="9" pts="29" sh="53" sog="29" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="4" ua="1" fg="5" ot="1" hat="0" gt="1" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="1574" dsave="0"></misc>
+      </player>
+      <player name="Rodrigo Mancenido" checkname="MANCENIDO,RODRIGO" gp="1" gs="0">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="13" dsave="0"></misc>
+      </player>
+      <player name="Lucas Noboa" checkname="NOBOA,LUCAS" gp="5" gs="1">
+        <shots g="0" a="0" pts="0" sh="1" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="189" dsave="0"></misc>
+      </player>
+      <player name="Guilherme Oliveira" checkname="OLIVEIRA,GUILHERME" gp="18" gs="14">
+        <shots g="2" a="2" pts="6" sh="10" sog="6" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="5" rc="0" gc="0"></cautions>
+        <misc minutes="871" dsave="0"></misc>
+      </player>
+      <player name="Andres Perez" checkname="PEREZ,ANDRES" gp="18" gs="18">
+        <shots g="1" a="5" pts="7" sh="25" sog="12" ps="1" psatt="1" soatt="0"></shots>
+        <goaltype gw="0" ua="1" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="1363" dsave="0"></misc>
+      </player>
+      <player name="Marc Rafols" checkname="RAFOLS,MARC" gp="18" gs="18">
+        <shots g="1" a="0" pts="2" sh="1" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="3" rc="0" gc="0"></cautions>
+        <misc minutes="1599" dsave="0"></misc>
+      </player>
+      <player name="Johnny Rodrigues" checkname="RODRIGUES,JOHNNY" gp="18" gs="18">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="1693" dsave="0"></misc>
+        <goalie gp="18" gs="18" minutes="1692:49" ga="14" saves="68" gaavg="0.74" svpct=".829" sho="10" w="11" l="4" t="3" sf="197"></goalie>
+      </player>
+      <player name="Kendall Sealy" checkname="SEALY,KENDALL" gp="15" gs="8">
+        <shots g="1" a="2" pts="4" sh="16" sog="7" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="834" dsave="0"></misc>
+      </player>
+      <player name="Cristiano Sevieri" checkname="SEVIERI,CRISTIANO" gp="2" gs="0">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="53" dsave="0"></misc>
+      </player>
+      <player name="Team" checkname="TEAM" gp="17" gs="0">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="0" dsave="0"></misc>
+        <goalie gp="0" gs="0" minutes="0:00" ga="0" saves="3" gaavg="0.00" svpct="1.000" sho="0" w="0" l="0" t="0" sf="0"></goalie>
+      </player>
+      <player name="Glen Thomas" checkname="THOMAS,GLEN" gp="18" gs="18">
+        <shots g="0" a="2" pts="2" sh="1" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="4" rc="0" gc="0"></cautions>
+        <misc minutes="1646" dsave="0"></misc>
+      </player>
+      <player name="Sean Trinidad" checkname="TRINIDAD,SEAN" gp="18" gs="18">
+        <shots g="3" a="5" pts="11" sh="16" sog="3" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="4" rc="0" gc="0"></cautions>
+        <misc minutes="1499" dsave="0"></misc>
+      </player>
+      <player name="Christian Yidios" checkname="YIDIOS,CHRISTIAN" gp="13" gs="0">
+        <shots g="0" a="0" pts="0" sh="5" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="277" dsave="0"></misc>
+      </player>
+      <player name="Alvaro Yusty" checkname="YUSTY,ALVARO" gp="4" gs="2">
+        <shots g="0" a="0" pts="0" sh="1" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="65" dsave="0"></misc>
+      </player>
+      <games>
+        <game number="1" date="9/4/2010" oppcode="1167" oppname="LANDER" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="2" oppscore="0" ot="0" attend="203"></game>
+        <game number="2" date="9/10/2010" oppcode="1000" oppname="Carson-Newman" site="Jefferson City, Tenn" homeaway="A" leaguegame="" ownscore="1" oppscore="1" ot="2" attend="155"></game>
+        <game number="3" date="9/12/2010" oppcode="30052" oppname="North Georgia" site="Dahlonega, GA" homeaway="A" leaguegame="" ownscore="1" oppscore="1" ot="2" attend="78"></game>
+        <game number="4" date="9/15/2010" oppcode="506232" oppname="JOHNSON &amp; WALES" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="7" oppscore="0" ot="0" attend="416"></game>
+        <game number="5" date="9/18/2010" oppcode="24639" oppname="Nova Southeastern" site="Ft. Lauderdale, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="847"></game>
+        <game number="6" date="9/24/2010" oppcode="506078" oppname="Lambuth" site="Jackson, Tenn." homeaway="A" leaguegame="" ownscore="2" oppscore="3" ownrank="21" ot="0" attend="64"></game>
+        <game number="7" date="9/25/2010" oppcode="500405" oppname="Belhaven" site="Jackson, Tenn." homeaway="N" leaguegame="" ownscore="2" oppscore="0" ownrank="21" opprank="8" ot="0" attend="15"></game>
+        <game number="8" date="10/2/2010" oppcode="689" oppname="TAMPA" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="3" oppscore="2" ot="2" attend="207"></game>
+        <game number="9" date="10/9/2010" oppcode="233" oppname="FLORIDA SOUTHERN" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="0" oppscore="1" ot="0" attend="117"></game>
+        <game number="10" date="10/12/2010" oppcode="230" oppname="Florida Tech" site="Melbourne, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="104"></game>
+        <game number="11" date="10/16/2010" oppcode="584" oppname="ROLLINS" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="0" oppscore="0" opprank="6" ot="2" attend="271"></game>
+        <game number="12" date="10/20/2010" oppcode="30045" oppname="PALM BEACH ATLANTIC" site="Miami Shores,Fla." homeaway="H" leaguegame="" ownscore="6" oppscore="1" ot="0" attend="283"></game>
+        <game number="13" date="10/23/2010" oppcode="608" oppname="Saint Leo" site="Saint Leo, Fla." homeaway="A" leaguegame="Y" ownscore="2" oppscore="0" ownrank="25" ot="0" attend="158"></game>
+        <game number="14" date="10/29/2010" oppcode="208" oppname="Eckerd Tritons" site="St. Petersburg, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="200"></game>
+        <game number="15" date="10/31/2010" oppcode="20794" oppname="LYNN" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="5" oppscore="0" ot="0" attend="277"></game>
+        <game number="16" date="11/5/2010" oppcode="689" oppname="TAMPA" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="1" oppscore="2" ownrank="12" opprank="22" ot="0" attend="365"></game>
+        <game number="17" date="11/12/2010" oppcode="689" oppname="Tampa" site="Winter Park, Fla." homeaway="N" leaguegame="" ownscore="1" oppscore="0" ot="0" attend="283"></game>
+        <game number="18" date="11/14/2010" oppcode="584" oppname="Rollins" site="Winter Park, Fla." homeaway="A" leaguegame="" ownscore="1" oppscore="3" ownrank="20" opprank="5" ot="0" attend="874"></game>
+      </games>
+    </team>
+  </soseas>
+
+  <soseas>
+
+    <venue type="M" venuetype="M" confonly="0" vstmid="" vsteam=""></venue>
+
+    <team code="" name="" season="2011">
+      <totals gp="20">
+        <shots g="37" a="49" pts="123" sh="312" sog="128" ps="1" psatt="1" soatt="0"></shots>
+        <goaltype gw="11" ua="4" fg="13" ot="1" hat="1" gt="2" so="0"></goaltype>
+        <cautions yc="30" rc="0" gc="0"></cautions>
+        <misc minutes="20145" dsave="0" corner="116" offside="52"></misc>
+        <goalie gp="22" minutes="1807:49" ga="14" saves="71" gaavg="0.70" svpct=".835" sho="12" w="11" l="4" t="3" sf="201"></goalie>
+      </totals>
+      <opponent gp="20">
+        <shots g="14" a="8" pts="36" sh="205" sog="85" ps="1" psatt="2" soatt="0"></shots>
+        <goaltype gw="4" ua="6" fg="4" ot="0" hat="0" gt="5" so="0"></goaltype>
+        <cautions yc="32" rc="2" gc="0"></cautions>
+        <misc minutes="20213" dsave="0" corner="77" offside="18"></misc>
+        <goalie gp="22" minutes="1807:49" ga="37" saves="91" gaavg="1.84" svpct=".711" sho="4" w="4" l="11" t="3" sf="306"></goalie>
+      </opponent>
+      <player name="Daniel Allan" checkname="ALLAN,DANIEL" gp="8" gs="2">
+        <shots g="1" a="0" pts="2" sh="7" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="130" dsave="0"></misc>
+      </player>
+      <player name="Mark Anderson" checkname="ANDERSON,MARK" gp="21" gs="19">
+        <shots g="11" a="9" pts="31" sh="100" sog="39" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="3" ua="2" fg="3" ot="0" hat="1" gt="1" so="0"></goaltype>
+        <cautions yc="3" rc="0" gc="0"></cautions>
+        <misc minutes="1542" dsave="0"></misc>
+      </player>
+      <player name="Joe Conkleton" checkname="CONKLETON,JOE" gp="21" gs="21">
+        <shots g="3" a="7" pts="13" sh="22" sog="7" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="1738" dsave="0"></misc>
+      </player>
+      <player name="Godfrey Francois" checkname="FRANCOIS,GODFREY" gp="15" gs="1">
+        <shots g="0" a="1" pts="1" sh="9" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="355" dsave="0"></misc>
+      </player>
+      <player name="Joao Garcia" checkname="GARCIA,JOAO" gp="18" gs="17">
+        <shots g="1" a="2" pts="4" sh="5" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="2" rc="0" gc="0"></cautions>
+        <misc minutes="1552" dsave="0"></misc>
+      </player>
+      <player name="Edwin Jean" checkname="JEAN,EDWIN" gp="2" gs="2">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="135" dsave="0"></misc>
+        <goalie gp="1" gs="0" minutes="45:00" ga="0" saves="0" gaavg="0.00" svpct=".000" sho="1" w="0" l="0" t="0" sf="1"></goalie>
+      </player>
+      <player name="Mark Kilpatrick" checkname="KILPATRICK,MARK" gp="17" gs="4">
+        <shots g="2" a="1" pts="5" sh="11" sog="5" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="618" dsave="0"></misc>
+      </player>
+      <player name="Joong Kim" checkname="KIM,JOONG" gp="18" gs="11">
+        <shots g="1" a="3" pts="5" sh="23" sog="8" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="6" rc="0" gc="0"></cautions>
+        <misc minutes="970" dsave="0"></misc>
+      </player>
+      <player name="Houghton Kinsman" checkname="KINSMAN,HOUGHTON" gp="16" gs="1">
+        <shots g="0" a="1" pts="1" sh="4" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="423" dsave="0"></misc>
+      </player>
+      <player name="Sascha Koettig" checkname="KOETTIG,SASCHA" gp="21" gs="20">
+        <shots g="10" a="9" pts="29" sh="53" sog="29" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="4" ua="1" fg="5" ot="1" hat="0" gt="1" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="1716" dsave="0"></misc>
+      </player>
+      <player name="Rodrigo Mancenido" checkname="MANCENIDO,RODRIGO" gp="4" gs="3">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="155" dsave="0"></misc>
+      </player>
+      <player name="Lucas Noboa" checkname="NOBOA,LUCAS" gp="5" gs="1">
+        <shots g="0" a="0" pts="0" sh="1" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="189" dsave="0"></misc>
+      </player>
+      <player name="Guilherme Oliveira" checkname="OLIVEIRA,GUILHERME" gp="21" gs="17">
+        <shots g="2" a="2" pts="6" sh="10" sog="6" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="5" rc="0" gc="0"></cautions>
+        <misc minutes="1013" dsave="0"></misc>
+      </player>
+      <player name="Andres Perez" checkname="PEREZ,ANDRES" gp="18" gs="18">
+        <shots g="1" a="5" pts="7" sh="25" sog="12" ps="1" psatt="1" soatt="0"></shots>
+        <goaltype gw="0" ua="1" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="1363" dsave="0"></misc>
+      </player>
+      <player name="Marc Rafols" checkname="RAFOLS,MARC" gp="21" gs="21">
+        <shots g="1" a="0" pts="2" sh="2" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="3" rc="0" gc="0"></cautions>
+        <misc minutes="1741" dsave="0"></misc>
+      </player>
+      <player name="Johnny Rodrigues" checkname="RODRIGUES,JOHNNY" gp="19" gs="18">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="1" rc="0" gc="0"></cautions>
+        <misc minutes="1703" dsave="0"></misc>
+        <goalie gp="19" gs="18" minutes="1702:49" ga="14" saves="68" gaavg="0.74" svpct=".829" sho="11" w="11" l="4" t="3" sf="198"></goalie>
+      </player>
+      <player name="Kendall Sealy" checkname="SEALY,KENDALL" gp="15" gs="8">
+        <shots g="1" a="2" pts="4" sh="16" sog="7" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="834" dsave="0"></misc>
+      </player>
+      <player name="Cristiano Sevieri" checkname="SEVIERI,CRISTIANO" gp="2" gs="0">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="53" dsave="0"></misc>
+      </player>
+      <player name="Team" checkname="TEAM" gp="17" gs="0">
+        <shots g="0" a="0" pts="0" sh="0" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="0" dsave="0"></misc>
+        <goalie gp="0" gs="0" minutes="0:00" ga="0" saves="3" gaavg="0.00" svpct="1.000" sho="0" w="0" l="0" t="0" sf="0"></goalie>
+      </player>
+      <player name="Glen Thomas" checkname="THOMAS,GLEN" gp="18" gs="18">
+        <shots g="0" a="2" pts="2" sh="1" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="4" rc="0" gc="0"></cautions>
+        <misc minutes="1646" dsave="0"></misc>
+      </player>
+      <player name="Sean Trinidad" checkname="TRINIDAD,SEAN" gp="21" gs="21">
+        <shots g="3" a="5" pts="11" sh="16" sog="3" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="1" ua="0" fg="1" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="4" rc="0" gc="0"></cautions>
+        <misc minutes="1641" dsave="0"></misc>
+      </player>
+      <player name="Daniel Walsh" checkname="WALSH,DANIEL" gp="3" gs="3">
+        <shots g="0" a="0" pts="0" sh="1" sog="1" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="142" dsave="0"></misc>
+        <goalie gp="2" gs="0" minutes="60:00" ga="0" saves="0" gaavg="0.00" svpct=".000" sho="2" w="0" l="0" t="0" sf="2"></goalie>
+      </player>
+      <player name="Christian Yidios" checkname="YIDIOS,CHRISTIAN" gp="13" gs="0">
+        <shots g="0" a="0" pts="0" sh="5" sog="2" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="279" dsave="0"></misc>
+      </player>
+      <player name="Alvaro Yusty" checkname="YUSTY,ALVARO" gp="7" gs="5">
+        <shots g="0" a="0" pts="0" sh="1" sog="0" ps="0" psatt="0" soatt="0"></shots>
+        <goaltype gw="0" ua="0" fg="0" ot="0" hat="0" gt="0" so="0"></goaltype>
+        <cautions yc="0" rc="0" gc="0"></cautions>
+        <misc minutes="207" dsave="0"></misc>
+      </player>
+      <games>
+        <game number="1" date="9/4/2010" oppcode="1167" oppname="LANDER" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="2" oppscore="0" ot="0" attend="203"></game>
+        <game number="2" date="9/10/2010" oppcode="1000" oppname="Carson-Newman" site="Jefferson City, Tenn" homeaway="A" leaguegame="" ownscore="1" oppscore="1" ot="2" attend="155"></game>
+        <game number="3" date="9/12/2010" oppcode="30052" oppname="North Georgia" site="Dahlonega, GA" homeaway="A" leaguegame="" ownscore="1" oppscore="1" ot="2" attend="78"></game>
+        <game number="4" date="9/15/2010" oppcode="506232" oppname="JOHNSON &amp; WALES" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="7" oppscore="0" ot="0" attend="416"></game>
+        <game number="5" date="9/18/2010" oppcode="24639" oppname="Nova Southeastern" site="Ft. Lauderdale, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="847"></game>
+        <game number="6" date="9/24/2010" oppcode="506078" oppname="Lambuth" site="Jackson, Tenn." homeaway="A" leaguegame="" ownscore="2" oppscore="3" ownrank="21" ot="0" attend="64"></game>
+        <game number="7" date="9/25/2010" oppcode="500405" oppname="Belhaven" site="Jackson, Tenn." homeaway="N" leaguegame="" ownscore="2" oppscore="0" ownrank="21" opprank="8" ot="0" attend="15"></game>
+        <game number="8" date="10/2/2010" oppcode="689" oppname="TAMPA" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="3" oppscore="2" ot="2" attend="207"></game>
+        <game number="9" date="10/9/2010" oppcode="233" oppname="FLORIDA SOUTHERN" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="0" oppscore="1" ot="0" attend="117"></game>
+        <game number="10" date="10/12/2010" oppcode="230" oppname="Florida Tech" site="Melbourne, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="104"></game>
+        <game number="11" date="10/16/2010" oppcode="584" oppname="ROLLINS" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="0" oppscore="0" opprank="6" ot="2" attend="271"></game>
+        <game number="12" date="10/20/2010" oppcode="30045" oppname="PALM BEACH ATLANTIC" site="Miami Shores,Fla." homeaway="H" leaguegame="" ownscore="6" oppscore="1" ot="0" attend="283"></game>
+        <game number="13" date="10/23/2010" oppcode="608" oppname="Saint Leo" site="Saint Leo, Fla." homeaway="A" leaguegame="Y" ownscore="2" oppscore="0" ownrank="25" ot="0" attend="158"></game>
+        <game number="14" date="10/29/2010" oppcode="208" oppname="Eckerd Tritons" site="St. Petersburg, Fla." homeaway="A" leaguegame="Y" ownscore="1" oppscore="0" ot="0" attend="200"></game>
+        <game number="15" date="10/31/2010" oppcode="20794" oppname="LYNN" site="Miami Shores, Fla." homeaway="H" leaguegame="Y" ownscore="5" oppscore="0" ot="0" attend="277"></game>
+        <game number="16" date="11/5/2010" oppcode="689" oppname="TAMPA" site="Miami Shores, Fla." homeaway="H" leaguegame="" ownscore="1" oppscore="2" ownrank="12" opprank="22" ot="0" attend="365"></game>
+        <game number="17" date="11/12/2010" oppcode="689" oppname="Tampa" site="Winter Park, Fla." homeaway="N" leaguegame="" ownscore="1" oppscore="0" ot="0" attend="283"></game>
+        <game number="18" date="11/14/2010" oppcode="584" oppname="Rollins" site="Winter Park, Fla." homeaway="A" leaguegame="" ownscore="1" oppscore="3" ownrank="20" opprank="5" ot="0" attend="874"></game>
+        <game number="19" date="4/30/2012" oppcode="500405" oppname="BELHAVEN" site="Unknown" homeaway="H" leaguegame="" ownscore="0" oppscore="0" ot="0" attend="0"></game>
+        <game number="20" date="" oppcode="500405" oppname="BELHAVEN" site="" homeaway="H" leaguegame="" ownscore="0" oppscore="0" ot="0" attend="0"></game>
+      </games>
+    </team>
+  </soseas>
+
+</soseasons>

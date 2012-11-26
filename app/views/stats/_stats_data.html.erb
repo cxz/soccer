@@ -1,0 +1,34 @@
+<%
+    my_totals = @totals.find_all { |t| t.kind.to_s.starts_with? group.to_s }
+    if not my_totals.empty?
+%>
+
+<div id="stats-data">
+  <table class="table table-hover table-condensed">
+    <thead>
+    <tr>
+       <th colspan="2">
+         <%= StatType::GROUP_DESC[group.to_sym] %>
+       </th>
+    </tr>
+    <tr>
+      <th>Type</th>
+      <th>Value</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    <% my_totals.each do |stat| %>
+        <tr>
+          <td><%= stat.description %></td>
+          <td><%= number_with_precision(stat.value, :strip_insignificant_zeros => true) %></td>
+        </tr>
+    <% end %>
+
+    </tbody>
+  </table>
+
+  <%= render :partial => "stats_chart", :locals => { :group => :general  } if group == :general %>
+</div>
+
+<% end %>

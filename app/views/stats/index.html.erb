@@ -1,0 +1,45 @@
+<h1>Listing stats</h1>
+
+<div class="box">
+  <span class="legend">Information</span>
+  Name: <%= @player.first_name %><br/>
+  Team: <%= @player.team.name %><br/>
+  Selected seasons: <%= @years.join ', ' %>
+</div>
+
+<div class="alert alert-block alert-info">
+    <h4>Notice:</h4>
+    <ul>
+      <li>you can query for a specific season:
+        <a href="<%=  player_stats_path(:season => @years.first) %>">example</a>,
+        <a href="<%=  player_stats_path(:season => @years.first, :format => :json) %>">json</a>
+      </li>
+      <li>or cumulative stats for a range of seasons:
+        <a href="<%=  player_stats_path(:seasonStart => @seasons.first.year, :seasonEnd => @seasons.last.year) %>">example</a>,
+        <a href="<%=  player_stats_path(:seasonStart => @seasons.first.year, :seasonEnd => @seasons.last.year, :format => :json) %>">json</a>
+      </li>
+      <li>if you don't inform any season the results include all seasons available:
+        <a href="<%=  player_stats_path() %>">example</a>,
+        <a href="<%=  player_stats_path(:format => :json) %>">json</a>
+      </li>
+    </ul>
+</div>
+
+<div class="pagination pagination-large">
+<ul>
+<% @seasons.each do |season| %>
+      <li><a href="<%=  player_stats_path(:season => season.year) %>"><%= season.year %></a> </li>
+<% end %>
+  <li><a href="<%=  player_stats_path() %>">Totals</a></li>
+</ul>
+</div>
+
+
+<%= render :partial => "stats_data", :locals => { :group => :general  } %>
+<%= render :partial => "stats_chart", :locals => { :group => :general, :player => @player  } %>
+<%= render :partial => "stats_data", :locals => { :group => :goaltype } %>
+<%= render :partial => "stats_data", :locals => { :group => :shots } %>
+<%= render :partial => "stats_data", :locals => { :group => :cautions } %>
+<%= render :partial => "stats_data", :locals => { :group => :goalie } %>
+<%= render :partial => "stats_data", :locals => { :group => :misc } %>
+

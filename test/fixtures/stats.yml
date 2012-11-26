@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+john_1_gp:
+  player: john
+  season: season_1
+  kind: 'gp'
+  value: 5
+
+john_2_gp:
+  player: john
+  season: season_2
+  kind: 'gp'
+  value: 10
+
+john_3_gp:
+  player: john
+  season: season_3
+  kind: 'gp'
+  value: 5
+
+john_3_gs:
+  player: john
+  season: season_3
+  kind: 'gs'
+  value: 1
