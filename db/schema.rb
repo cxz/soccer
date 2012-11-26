@@ -29,7 +29,7 @@ ActiveRecord::Schema.define(:version => 20121124052442) do
 
   create_table "stats", :force => true do |t|
     t.string   "kind"
-    t.string   "value"
+    t.integer  "value"
     t.integer  "season_id"
     t.integer  "player_id"
     t.datetime "created_at", :null => false
