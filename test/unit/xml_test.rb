@@ -3,9 +3,7 @@ require 'test_helper'
 class XmlTest < ActiveSupport::TestCase
   test "import" do
     xml = IO.read(Rails.root.join("test", "fixtures", "INDALL.xml"))
-    reader = XmlReader.new
-    reader.read xml
-    xml_data = reader.get
+    reader = XmlReader.new(xml)
 
     seasons = reader.get_seasons
     #print "#{seasons.size} seasons\n"
@@ -20,9 +18,7 @@ class XmlTest < ActiveSupport::TestCase
   end
 
   test "stats have descriptions" do
-    xml = IO.read(Rails.root.join("test", "fixtures", "INDALL.xml"))
-    r = XmlReader.new
-    r.read xml
+    r = XmlReader.new(IO.read(Rails.root.join("test", "fixtures", "INDALL.xml")))
 
     r.get_seasons.each { |s| r.get_players_stats_for_season(s).each_value { |stat|
         assert_equal([], stat.keys.find_all { |kind| not StatType::DESC.has_key? kind }, "all kinds should have descriptions")
